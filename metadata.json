@@ -1,0 +1,6 @@
+{
+  "name": "Games",
+  "description": "Connect with friends, track achievements, challenge players, explore Apple Arcade favorites, and launch your mobile games in a stunning frosted glass hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
